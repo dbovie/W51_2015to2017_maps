@@ -1,0 +1,19 @@
+ds9 /orange/adamginsburg/w51/2017.1.00293.S/FITS/w51e2_sci.spw0_4_8_12_16.cube.I.manual.image.pbcor.max.fits
+module load gui
+ls
+git clone
+git clone https://github.com/dbovie/W51_2015to2017_maps.git
+ls
+mv Plots.ipynp to W51_2015to2017_maps
+mv Plots.ipynp W51_2015to2017_maps
+find plots.ipynb
+find Plots.ipynb 
+mv Plots.ipynb to W51_2015to2017_maps
+mv Plots.ipynb W51_2015to2017_maps
+cd W51_2015to2017_maps
+git add
+git add .
+$ git commit -m "Add Jupyter nb"
+git commit -m "Add Jupyter nb"
+git push origin your-branch
+git push -u origin master
