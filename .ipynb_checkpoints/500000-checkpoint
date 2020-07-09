@@ -1,0 +1,27 @@
+ls
+W51_2015to2017_maps
+cd W51_2015to2017_maps
+ls
+git add .
+git commit -m "Update to Plots"
+git push -u origin master
+ls
+git add .
+git commit -m "Update to Plots"
+git push origin master
+ls
+git add .
+git commit -m "Update to Plots"
+git push origin master
+git statis
+git status
+ls
+ls -l
+pwd
+cd
+ls
+ls -lh *ipynb
+mv Plots.ipynb W51_2015to2017_maps/
+cd W51_2015to2017_maps/
+git commit -am "Update to Plots"
+git push origin master
