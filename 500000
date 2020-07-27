@@ -25,3 +25,9 @@ mv Plots.ipynb W51_2015to2017_maps/
 cd W51_2015to2017_maps/
 git commit -am "Update to Plots"
 git push origin master
+ls
+cd W51_2015to2017_maps
+ls
+git add .
+git commit -m "Add existing file"
+git push origin
